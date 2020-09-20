@@ -16,7 +16,7 @@
 
 本地需要node环境。除了软件初次运行提示安装的SDK, 还需要在Tools/../SDK Platforms安装 `Js`和Tools/../SDK Tools安装`Previewer`
 
-![](.\\doc\\img\\tool.png)
+![](./doc/img/tool.png)
 
 
 
